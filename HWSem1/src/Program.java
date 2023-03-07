@@ -5,5 +5,6 @@ public class Program {
         for (Product product: products) {
             System.out.println(product);
         }
+
     }
 }

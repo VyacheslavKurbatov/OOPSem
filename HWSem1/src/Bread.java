@@ -25,5 +25,6 @@ public class Bread extends FoodProduct {
                 ", quantity=" + quantity +
                 ", unit='" + unit + '\'' +
                 '}';
+
     }
 }

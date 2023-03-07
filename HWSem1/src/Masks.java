@@ -1,5 +1,4 @@
 public class Masks extends HygieneItems {
-
     /**
      * Конструктор
      * @param name название

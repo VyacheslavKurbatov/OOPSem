@@ -1,5 +1,4 @@
 public class Diapers extends ChildrenProducts {
-
     String size; // размер
     double minWeight; // минимальный вес
     double maxWeight; // минимальный вес

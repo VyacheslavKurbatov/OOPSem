@@ -1,5 +1,4 @@
 public class Milk extends Drinks {
-
     private double fatContent; // процент жирности
     private String date; // срок годности
 

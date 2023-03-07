@@ -1,6 +1,5 @@
 public class Eggs extends FoodProduct {
     int quantityInPackage; // колличество в упаковке
-
     /**
      * Конструктор
      * @param name название

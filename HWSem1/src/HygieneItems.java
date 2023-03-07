@@ -1,6 +1,5 @@
 public abstract class HygieneItems extends Product{
     protected int quantityInPackage; // колл-во в упаковке
-
     /**
      * Конструктор
      * @param name название

@@ -37,7 +37,6 @@ public class Main {
         products.add(nipple);
         products.add(toiletPaper);
 
-
         Program.printInfo(products);
     }
 }

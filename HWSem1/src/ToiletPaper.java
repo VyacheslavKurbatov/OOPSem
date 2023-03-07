@@ -1,5 +1,4 @@
 public class ToiletPaper extends HygieneItems {
-
     int numberLayers; // колличество слоев
 
     /**

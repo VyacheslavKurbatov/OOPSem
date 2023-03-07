@@ -3,7 +3,6 @@ public abstract class Product {
     protected double price; //цена
     protected int quantity; // колличество
     protected String unit; // единица измерения
-
     /**
      * Конструктор
      * @param name название

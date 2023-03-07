@@ -1,5 +1,4 @@
 public class Nipple extends ChildrenProducts{
-
     /**
      * Конструктор
      * @param name название

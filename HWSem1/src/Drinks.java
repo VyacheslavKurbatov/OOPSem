@@ -1,6 +1,5 @@
 public abstract class Drinks extends Product {
     protected double volume; //объем
-
     /**
      * Конструктор
      * @param name название

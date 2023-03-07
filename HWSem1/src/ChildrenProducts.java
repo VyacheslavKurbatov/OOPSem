@@ -16,5 +16,4 @@ public abstract class ChildrenProducts extends Product{
         this.minAge = minAge;
         this.hypoallergenic = hypoallergenic;
     }
-
 }

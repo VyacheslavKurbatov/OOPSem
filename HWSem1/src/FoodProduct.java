@@ -2,7 +2,6 @@ import java.time.LocalDate;
 
 public abstract class FoodProduct extends Product{
     protected String date; // срок годности
-
     /**
      * Конструктор
      * @param name название

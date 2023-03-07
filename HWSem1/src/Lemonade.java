@@ -1,5 +1,4 @@
 public class Lemonade extends Drinks {
-
     /**
      * Конструктор
      * @param name название
