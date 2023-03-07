@@ -14,7 +14,7 @@ public class SeniorPupil extends Pupils implements Smoke, Love {
     public void smoke() {
         System.out.println("Я бросяю курить");
     }
-
+    @Override
     public void love(){
         System.out.println("Я ищу любовь");
     }

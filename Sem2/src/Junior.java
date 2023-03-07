@@ -15,7 +15,7 @@ public class Junior extends Pupils implements Play, GoExtension {
     public void play() {
         System.out.println("Я играю в игрушки");
     }
-
+    @Override
     public void goExtension(){
         System.out.println("Я хожу продленку");
     }
