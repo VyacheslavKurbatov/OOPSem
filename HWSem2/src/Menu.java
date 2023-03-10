@@ -99,21 +99,27 @@ public class Menu {
 
         if (choosAnimal == 3 || choosAnimal == 4){
             System.out.print("Введите кличку : ");
-            name = iScanner.next();
+            name = iScanner.nextLine();
+            name = iScanner.nextLine();
             System.out.print("Введите породу : ");
-            breed = iScanner.next();
+            breed = iScanner.nextLine();
+            breed = iScanner.nextLine();
             System.out.print("Введите наличие прививок (true/false): ");
             availabilityVaccinations = iScanner.nextBoolean();
             System.out.print("Введите цвет шерсти : ");
-            coatColor = iScanner.next();
+            coatColor = iScanner.nextLine();
+            coatColor = iScanner.nextLine();
             System.out.print("Введите дату рождения : ");
-            birthDate = iScanner.next();
+            birthDate = iScanner.nextLine();
+            birthDate = iScanner.nextLine();
         }
         if (choosAnimal == 5 || choosAnimal == 6){
             System.out.print("Введите среду обитания : ");
-            habitat = iScanner.next();
+            habitat = iScanner.nextLine();
+            habitat = iScanner.nextLine();
             System.out.println("Введите дату рождения : ");
-            birthDate = iScanner.next();
+            birthDate = iScanner.nextLine();
+            birthDate = iScanner.nextLine();
         }
 
         switch (choosAnimal) {
