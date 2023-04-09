@@ -10,9 +10,6 @@ public class Main {
         View view = new ConsoleUI();
         new Presenter(view, modelInterface);
 
-        boolean flag = true;
-        while (flag){
-            flag = view.start();
-        }
+        view.start();
     }
 }
